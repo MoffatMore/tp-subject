@@ -1,0 +1,7 @@
+from .subject_education_admin import EducationAdmin
+from .subject_consent_admin import SubjectConsentAdmin
+from .subject_requisition_admin import SubjectRequisitionAdmin
+from .subject_visit_admin import SubjectVisitAdmin
+from .subject_education_hoh_admin import EducationHohAdmin
+from .subject_demographic_admin import DemographicAdmin
+from .subject_community_engagement_admin import CommunityEngagementAdmin
